@@ -22,4 +22,6 @@ Cada bloque de celda esta en un apartado con el nombre en titulo de la seccion y
 
 Espero te guste mi analisis y te agradezo cualquier opinion al respeto sobre el y como podria mejorar, puedes hacerlo mediante este correo: kevincancino15@gmail.com , con el asunto: "opinion sobre tu desadfio alura store"
 
+# Nota
+Gracias a la practica de este ejercicio, pude implementarlo en mi trabajo para gestionar incidentes de mes en el proceso de un servicio, asi me ahorre bastante tiempo en mi reporte, lo cual me ahce feliz dado que puse en practica en un caso real de mi dia a dia, algo que comparto con el lector de este readme.
 !gracias¡

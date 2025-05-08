@@ -16,3 +16,10 @@ ________________________________________
 
  # Resultado esperado
 Con base en los resultados del análisis, podremos recomendar de manera objetiva cuál tienda representa la opción más estratégica para vender, ya sea por baja facturación, altos costos, baja satisfacción del cliente o menor popularidad de productos.
+# Instrucciones
+Cada uno de los bloques de celda se deben ejecutar de manera decendente para asi ir cargando la informacion, dado que si no se hace asi, aun bloque se le puede tirar error.
+Cada bloque de celda esta en un apartado con el nombre en titulo de la seccion y asi mimso podrass encontrar #xxx comentarioos junto a las lineas de codigo donde te esspecifican que hace cada linea y lo que crea o modifica en las tablas y graficass.
+
+Espero te guste mi analisis y te agradezo cualquier opinion al respeto sobre el y como podria mejorar, puedes hacerlo mediante este correo: kevincancino15@gmail.com , con el asunto: "opinion sobre tu desadfio alura store"
+
+!gracias¡
